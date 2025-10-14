@@ -2,4 +2,5 @@
 	<Script file="version.lua"/>
 	<Script file="CollectionNotifications.lua"/>
 	<Script file="ConfigMenu.lua"/>
+	<Script file="TextureReplacementTest.lua"/>
 </Ui>

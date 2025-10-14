@@ -72,11 +72,11 @@ LSM:Register("sound", "NT_Mount_Collection", [[Interface\AddOns\NoobTacoUI-Media
 LSM:Register("sound", "NT_Toy_Collection", [[Interface\AddOns\NoobTacoUI-Media\Media\Audio\NT_sd_toy_collection.ogg]])
 LSM:Register("sound", "NT_Transmog", [[Interface\AddOns\NoobTacoUI-Media\Media\Audio\NT_sd_transmog.ogg]])
 
--- Status Bar Textures - Nord Theme
 LSM:Register("statusbar", "NT_Nord00", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_nord0.tga]])
 LSM:Register("statusbar", "NT_Nord00_Gradient", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_nord0_grd.tga]])
 LSM:Register("statusbar", "NT_Nord01", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_nord1.tga]])
-LSM:Register("statusbar", "NT_Nord01_Gradient", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_nord1_grd.tga]])
+LSM:Register("statusbar", "NT_test", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_test.tga]])
+LSM:Register("statusbar", "NT_test2", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_test2.tga]])
 LSM:Register("statusbar", "NT_Nord02", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_nord2.tga]])
 LSM:Register("statusbar", "NT_Nord02_Gradient", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_nord2_grd.tga]])
 LSM:Register("statusbar", "NT_Nord03", [[Interface\AddOns\NoobTacoUI-Media\Media\Textures\NT_nord3.tga]])
